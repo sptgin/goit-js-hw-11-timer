@@ -13,3 +13,8 @@ html {
 body {
 }
 
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
